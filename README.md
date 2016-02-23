@@ -1,3 +1,5 @@
 # Yubi Framework
+Yubi Framework é um framework minimalista para Ajax nativo em JavaScript, minimalista. Essencial para comunicação de dados.
 
-Yubi Framework é um framework para rápido desenvolvimento de aplicativos no navegador, e minimalista, pegando os recursos essenciais para grid e comunicação de dados.
+! Modo de uso:
+Yubi.Ajax("url",callback);
